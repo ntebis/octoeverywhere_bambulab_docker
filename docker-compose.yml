@@ -1,7 +1,7 @@
 version: '2'
 services:
   octo-bambulab:
-    image: ntebis/octoeverywhere_bambulab:0.0.1
+    image: ntebis/octoeverywhere_bambulab:latest
     environment:
       - ACCESS_CODE=XXXXXXXX
         # https://wiki.bambulab.com/en/general/find-sn
