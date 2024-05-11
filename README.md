@@ -1,6 +1,6 @@
 # octoeverywhere_bambulab_docker
 
-Unofficial docker container for Bambulab Octoeverywhere. Still some work in progress. Please report any bugs in the issue tracker. 
+Unofficial [Docker container](https://hub.docker.com/r/ntebis/octoeverywhere_bambulab) for Bambulab Octoeverywhere. Still some work in progress. Please report any bugs in the issue tracker. 
 
 Features request will not be done as [Quinn Damerell](https://github.com/QuinnDamerell) of Octoeverywhere will be creating an official container at some point. Please direct your feature requests there. 
 
